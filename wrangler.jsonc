@@ -21,7 +21,7 @@
 	"kv_namespaces": [
 		{
 			"binding": "KV",
-			"id": "bf7079d7bb7b4b45b2ac9072d5f29e7f",
+			"id": "fb98ed26846d4ee2820d0534633183c4",
 
 			// Optional: preview_id used when running `wrangler dev` for local dev
 			"preview_id": "<ID_OF_PREVIEW_KV_NAMESPACE_FOR_LOCAL_DEVELOPMENT>"
